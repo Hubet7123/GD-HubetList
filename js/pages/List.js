@@ -86,7 +86,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+                        <p class="type-label-md">Website managed by Zkiba | Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
@@ -100,25 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Your completion video must have all clicks fully audible throughout the entire completion.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        You must record and upload a video of your completion to YouTube or another video sharing platform.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Completion videos may not be deleted after they are accepted.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        If your video was uploaded after July 2nd, 2023, your record must have all cheat indicators visible on the level's end screen.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Your record must show the stats on the endscreen (attempts, orbs, etc.).
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Your record may not use any disallowed mods on AREDL.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        During your completion, you may not use any skips that make any section of the level significantly easier.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
