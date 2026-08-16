@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+  "id": 30219145,
+  "name": "Hypersonic",
+  "author": "Viprin",
+  "creators": ["Dudex", "Serponge", "Manix648", "Vlacc", "Rustam", "Nasgubb", "ZenthicAlpha", "Viprin", "PanMan", "Evasium", "Etzer", "Terron"],
+  "verifier": "Combined",
+  "verification": "https://www.youtube.com/watch?v=RmrPEJ7Z6lY",
+  "percentToQualify": 100,
+  "password": "Not Copyable",
+  "records": [
+    {
+      "user": "Zkiba",
+      "link": "https://www.youtube.com/watch?v=1H_E2VGm0P8",
+      "percent": 100,
+      "hz": 165
+    }
+  ]
 }
