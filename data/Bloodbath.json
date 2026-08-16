@@ -1,0 +1,18 @@
+{
+  "id": 10565740,
+  "name": "Bloodbath",
+  "author": "Riot",
+  "creators": ["Riot", "weoweoteo", "Vermillion", "Michigun", "Evasium", "Crack", "ASonicMen", "Etzer", "Havok", "Giron"],
+  "verifier": "Riot",
+  "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+  "percentToQualify": 100,
+  "password": "Not Copyable",
+  "records": [
+    {
+      "user": "Zkiba",
+      "link": "https://www.youtube.com/watch?v=PY36y7LF4X4",
+      "percent": 100,
+      "hz": 165
+    }
+  ]
+}
