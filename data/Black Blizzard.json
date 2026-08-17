@@ -1,0 +1,18 @@
+{
+  "id": 34057654,
+  "name": "Black Blizzard",
+  "author": "KrmaL",
+  "creators": ["KrmaL"],
+  "verifier": "KrmaL",
+  "verification": "https://youtu.be/lsT5TjQ1Ubc?si=F6-keWROV9ly6vMG",
+  "percentToQualify": 90,
+  "password": "000006",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=eIJ_VV7fV1o",
+      "percent": 100,
+      "hz": 165
+    }
+  ]
+}
