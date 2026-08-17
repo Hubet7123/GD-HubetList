@@ -50,7 +50,10 @@ header {
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
-    background-color: var(--color-primary);
+    background-color: transparent !important;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgh0JrhB7dnYfJ-Iw3-fq9GLlYdgMI_Y-9YfdmQ41GQ&s=10') !important;
+    background-size: cover !important;
+    background-position: center !important;
     color: var(--color-on-primary);
 }
 @media screen and (min-width: 1366px) {
@@ -68,10 +71,6 @@ header .logo {
 }
 header .nav {
     flex: 1;
-    background-color: transparent !important;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgh0JrhB7dnYfJ-Iw3-fq9GLlYdgMI_Y-9YfdmQ41GQ&s=10') !important;
-    background-size: cover !important;
-    background-position: center !important;
 }
 
 main {
