@@ -1,0 +1,18 @@
+{
+  "id": 63514295,
+  "name": "2 1 1",
+  "author": "guillester",
+  "creators": ["Etzer, Platnuu, Flame, guillester"],
+  "verifier": "guillester",
+  "verification": "https://youtu.be/bFQIzKb1as0?si=Ob_w5hxsQ2XQNEIq",
+  "percentToQualify": 100,
+  "password": "Copyable",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=7-Wp-o4_nls",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
