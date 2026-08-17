@@ -1,0 +1,18 @@
+{
+  "id": 25610878,
+  "name": "Aftermath",
+  "author": "Exenity",
+  "creators": ["Exenity", "Squizz", "Hinds", "Vultra", "Rhythmic", "Waze", "Bassiegames", "Findexi", "knobbelboy"],
+  "verifier": "Satcho",
+  "verification": "https://youtu.be/iLCcJyh5c5k?si=aiV9TLExGbESZkeT",
+  "percentToQualify": 100,
+  "password": "Copyable",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=uKUbUoI8Cto",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
