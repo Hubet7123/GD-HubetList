@@ -1,0 +1,17 @@
+{
+  "id": 138356396,
+  "name": "BRUTAL",
+  "author": "Tshack",
+  "creators": ["Tshack", "Airless"],
+  "verifier": "Airless",
+  "verification": "https://youtu.be/y7aMuCOwjiI?si=LniZJGNXklBHmvxh",
+  "percentToQualify": 100,
+  "password": "Copyable",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=FwtnfEswVGQ",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
