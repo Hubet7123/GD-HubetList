@@ -68,6 +68,9 @@ header .logo {
 }
 header .nav {
     flex: 1;
+    background-image: url('TUTAJ_WKLEJ_SKOPIOWANY_ADRES_OBRAZKA_Z_GOOGLE');
+    background-size: cover;
+    background-position: center;
 }
 
 main {
