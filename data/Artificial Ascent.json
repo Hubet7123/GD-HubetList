@@ -1,1 +1,18 @@
-
+{
+  "id": 27122654,
+  "name": "Artificial Ascent",
+  "author": "Viprin",
+  "creators": ["Viprin, LmAnubis, Codex, Manix648, Sanic, Hinds, Zobros, Michigun, Anthrax, ZenthicAlpha, Loogiah, Wamiq8, Nasgubb, AbstractDark, Etzer, Speed, Serponge, G4lvatron, Terron"],
+  "verifier": "Combined",
+  "verification": "https://youtu.be/laok-nI3-t8?si=GFc1GKFtVoJ-lhdr",
+  "percentToQualify": 88,
+  "password": "Copyable",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=fxX2dG2RZ20",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
