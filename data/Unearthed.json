@@ -1,0 +1,18 @@
+{
+  "id": 50833396,
+  "name": "Unearthed",
+  "author": "YakobNugget",
+  "creators": ["JacobRoso, YakobNugget, Luisluigi, MaxiKD, Tartofrez, Onnikonna, JaoDay, iNubble, TheTrueEclipse, Syberian, Alecast, Sequex, Lipz, Arceus4, Konsi, PotatoBaby, voltex, Wolfking47, Skele"],
+  "verifier": "npesta",
+  "verification": "https://youtu.be/yvR454BuffE?si=iToMc-5buN1vXAtc",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=Xy15bBYp5xk",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
