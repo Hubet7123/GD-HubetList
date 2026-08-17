@@ -1,0 +1,18 @@
+{
+  "id": 58252259,
+  "name": "Azurite (Sillow)",
+  "author": "zeroya",
+  "creators": ["Spectral, voltex, GDSpeed, zeroya, Isane, Helpegasus, Majkomar, Masu, Platnuu, Enixy, Xaren, Arclia"],
+  "verifier": "Mycrafted",
+  "verification": "https://youtu.be/RKbKYcS9aCU?si=K50b33ON_DvRmDnd",
+  "percentToQualify": 100,
+  "password": "Copyable",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=2f5lpCpGb3s",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
