@@ -1,1 +1,18 @@
-
+{
+  "id": 102807047,
+  "name": "Infinite Inversion",
+  "author": "fil",
+  "creators": ["fil"],
+  "verifier": "Lucidium",
+  "verification": "https://youtu.be/SdJguQc9bwk?si=G9bjA8qwcr3r4An_",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=gWwUwJcUy2A",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
