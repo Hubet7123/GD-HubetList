@@ -1,0 +1,18 @@
+{
+  "id": 26133601,
+  "name": "Athanatos",
+  "author": "Exenity",
+  "creators": ["Gaero, Herzilo, Exenity"],
+  "verifier": "knobbelboy",
+  "verification": "https://youtu.be/HixckMI3rwo?si=bEOA4hdHF4uQdT01",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=Stu2N4wgsW4",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
