@@ -1,0 +1,18 @@
+{
+  "id": 37398911,
+  "name": "Stalemate Redux",
+  "author": "TehTactiq",
+  "creators": ["TehTactiq, TheFrozenTide"],
+  "verifier": "Zephal",
+  "verification": "https://youtu.be/t9XP1lhMrPo?si=dLJ_NYTcKMD-lzUp",
+  "percentToQualify": 90,
+  "password": "115911",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=CkN4y2IqJlU",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
