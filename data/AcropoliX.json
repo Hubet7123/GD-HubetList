@@ -1,0 +1,18 @@
+{
+  "id": 19300593,
+  "name": "AcropoliX",
+  "author": "SoulsTRK",
+  "creators": ["SoulsTRK"],
+  "verifier": "SoulsTRK",
+  "verification": "https://youtu.be/9GrlZLD8wZ0?si=s2wyY8csEwP4oaVp",
+  "percentToQualify": 100,
+  "password": "270416",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=kAH1E0LqI-g",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
