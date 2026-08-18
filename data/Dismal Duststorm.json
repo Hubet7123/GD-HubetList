@@ -1,0 +1,18 @@
+{
+  "id": 89201076,
+  "name": "Dismal Duststorm",
+  "author": "Multiverse55",
+  "creators": ["Multiverse55"],
+  "verifier": "Multiverse55",
+  "verification": "https://youtu.be/l-hYBdrM0bc?si=H4t2oaJABCF1ztLR",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=iQokIBRcRz0",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
