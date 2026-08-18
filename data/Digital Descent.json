@@ -1,0 +1,18 @@
+{
+  "id": 37456092,
+  "name": "Digital Descent",
+  "author": "Viprin",
+  "creators": ["Codex, Kips, nasgubb, Terron, AbstractDark, Samifying, Manix648, Viprin, TheDevon, Etzer, Loogiah, LazerBlitz, G4lvatron, Vlacc, Serponge, Hinds, Rustam, KrmaL"],
+  "verifier": "Combined",
+  "verification": "https://youtu.be/mX8j8jG-Um8?si=pHCXOCRq321hr4Xp",
+  "percentToQualify": 90,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=lqj3DhbOGwM",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
