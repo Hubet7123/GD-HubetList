@@ -1,0 +1,18 @@
+{
+  "id": 56703691,
+  "name": "Ouroboros",
+  "author": "Viprin",
+  "creators": ["Osiris GD, Loserchik67, G4lvatron, FerdeFunky, Rustam, Darwin, Viprin, DesTicY, AbstractDark, TheDevon, ChaSe, TrusTa, Terron"],
+  "verifier": "Technical",
+  "verification": "https://youtu.be/hLTnewDC2Hs?si=sCtBkKR79scyFkgX",
+  "percentToQualify": 87,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=YjqLkAQwvOg",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
