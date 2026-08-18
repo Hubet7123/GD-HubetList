@@ -1,1 +1,18 @@
-
+{
+  "id": 79146983,
+  "name": "EKO",
+  "author": "PureDinoMight",
+  "creators": ["PureDinoMight, Kaz Va, Gyrodog"],
+  "verifier": "Victurkey",
+  "verification": "https://youtu.be/5Cj1bWRzoFA?si=bUMpfeu4qX9jV135",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=1pryF8psxik",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
