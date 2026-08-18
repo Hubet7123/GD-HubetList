@@ -1,0 +1,18 @@
+{
+  "id": 35448603,
+  "name": "Blade of Justice",
+  "author": "Manix648",
+  "creators": ["LazerBlitz, Panman, Manix648"],
+  "verifier": "RicoLP",
+  "verification": "https://youtu.be/6018CbEjA-4?si=aN2OK6kA1dEKfwfp",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=l2_nYP6nbSw",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
