@@ -1,0 +1,18 @@
+{
+  "id": 42584142,
+  "name": "Bloodlust",
+  "author": "knobbelboy",
+  "creators": ["Quasar, Panman, Namtar, nikroplays, Havok, Wabbit, Rustam, Xaro, Terron, Willy5000, TMNGaming, Manix648, nwolc, Minesap, non4med"],
+  "verifier": "knobbelboy",
+  "verification": "https://youtu.be/5SzKetF2btw?si=t3FCKjZU6uZdmDPJ",
+  "percentToQualify": 86,
+  "password": "121296",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=vWFN1DPaBsE",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
