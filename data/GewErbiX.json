@@ -1,0 +1,18 @@
+{
+  "id": 68311699,
+  "name": "GewErbiX",
+  "author": "Wintter",
+  "creators": ["Wintter"],
+  "verifier": "MaFFaKa",
+  "verification": "https://youtu.be/ff515144d6I?si=EpZZeQ40yICN2bcq",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=rbiUCu9neA4",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
