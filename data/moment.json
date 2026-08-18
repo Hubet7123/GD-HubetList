@@ -1,0 +1,18 @@
+{
+  "id": 68848817,
+  "name": "moment",
+  "author": "Lexycat",
+  "creators": ["Lexycatm icedcavem Stormfly"],
+  "verifier": "Johnfree",
+  "verification": "https://youtu.be/HBQhYLRgdvE?si=ChUPCP9osCrY82hk",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=ZBLYMN5uM9M",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
