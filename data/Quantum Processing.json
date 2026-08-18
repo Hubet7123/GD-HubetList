@@ -1,0 +1,18 @@
+{
+  "id": 38235367,
+  "name": "Quantum Processing",
+  "author": "Riot",
+  "creators": ["Riot, Hinds, Zobros, Sil3nce, RobTop"],
+  "verifier": "rampage",
+  "verification": "https://youtu.be/lt8GNUsFMQo?si=r2-LAWD0izolk6QV",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=_rQ2VyWMU_E",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
