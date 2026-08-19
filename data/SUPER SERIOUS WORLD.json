@@ -1,0 +1,18 @@
+{
+  "id": 112491891,
+  "name": "SUPER SERIOUS WORLD",
+  "author": "Proto",
+  "creators": ["Proto, vSetna"],
+  "verifier": "Proto",
+  "verification": "https://youtu.be/RJj5niMDX30?si=utgLVvD-8s2V3e1z",
+  "percentToQualify": 90,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=LjFfHZPPri0",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
