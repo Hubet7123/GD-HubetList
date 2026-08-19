@@ -1,0 +1,18 @@
+{
+  "id": 79484035,
+  "name": "The Moon Below",
+  "author": "Onvil",
+  "creators": ["Onvil"],
+  "verifier": "maxis044",
+  "verification": "https://youtu.be/Gs5mRmoLh7g?si=w2bmZhU101GQXxfP",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=N7NH7mZnyoE",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
