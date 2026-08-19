@@ -1,0 +1,18 @@
+{
+  "id": 73529215,
+  "name": "Voltaic",
+  "author": "AAAAAlex",
+  "creators": ["AAAAAlex"],
+  "verifier": "GMDomy",
+  "verification": "https://youtu.be/_Nve5nTOT7c?si=Bj-0X1ffyCfmWaeP",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=sFkeMrTAOUY",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
